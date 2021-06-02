@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-05T15:32:37 GST" name="Suite" finished-at="2021-02-05T15:32:37 GST" duration-ms="43">
+    <groups>
+      <group name="Regression">
+        <method signature="V160_1SwitchingTheTestsWithMavenProfiling.MavenFullSwing3()[pri:0, instance:UdemyContd2.V160_1SwitchingTheTestsWithMavenProfiling@32910148]" name="MavenFullSwing3" class="UdemyContd2.V160_1SwitchingTheTestsWithMavenProfiling"/>
+        <method signature="V160_2SwitchingTheTestsWithMavenProfiling.MavenFullSwing6()[pri:0, instance:UdemyContd2.V160_2SwitchingTheTestsWithMavenProfiling@3f56875e]" name="MavenFullSwing6" class="UdemyContd2.V160_2SwitchingTheTestsWithMavenProfiling"/>
+        <method signature="V160_3SwitchingTheTestsWithMavenProfiling.MavenFullSwing9()[pri:0, instance:UdemyContd2.V160_3SwitchingTheTestsWithMavenProfiling@2b4bac49]" name="MavenFullSwing9" class="UdemyContd2.V160_3SwitchingTheTestsWithMavenProfiling"/>
+      </group> <!-- Regression -->
+      <group name="Smoke">
+        <method signature="V160_1SwitchingTheTestsWithMavenProfiling.MavenFullSwing1()[pri:0, instance:UdemyContd2.V160_1SwitchingTheTestsWithMavenProfiling@32910148]" name="MavenFullSwing1" class="UdemyContd2.V160_1SwitchingTheTestsWithMavenProfiling"/>
+        <method signature="V160_2SwitchingTheTestsWithMavenProfiling.MavenFullSwing4()[pri:0, instance:UdemyContd2.V160_2SwitchingTheTestsWithMavenProfiling@3f56875e]" name="MavenFullSwing4" class="UdemyContd2.V160_2SwitchingTheTestsWithMavenProfiling"/>
+        <method signature="V160_3SwitchingTheTestsWithMavenProfiling.MavenFullSwing7()[pri:0, instance:UdemyContd2.V160_3SwitchingTheTestsWithMavenProfiling@2b4bac49]" name="MavenFullSwing7" class="UdemyContd2.V160_3SwitchingTheTestsWithMavenProfiling"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2021-02-05T15:32:37 GST" name="Test" finished-at="2021-02-05T15:32:37 GST" duration-ms="43">
+      <class name="UdemyContd2.V160_1SwitchingTheTestsWithMavenProfiling">
+        <test-method signature="MavenFullSwing1()[pri:0, instance:UdemyContd2.V160_1SwitchingTheTestsWithMavenProfiling@32910148]" started-at="2021-02-05T15:32:37 GST" name="MavenFullSwing1" finished-at="2021-02-05T15:32:37 GST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MavenFullSwing1 -->
+        <test-method signature="MavenFullSwing2()[pri:0, instance:UdemyContd2.V160_1SwitchingTheTestsWithMavenProfiling@32910148]" started-at="2021-02-05T15:32:37 GST" name="MavenFullSwing2" finished-at="2021-02-05T15:32:37 GST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MavenFullSwing2 -->
+        <test-method signature="MavenFullSwing3()[pri:0, instance:UdemyContd2.V160_1SwitchingTheTestsWithMavenProfiling@32910148]" started-at="2021-02-05T15:32:37 GST" name="MavenFullSwing3" finished-at="2021-02-05T15:32:37 GST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MavenFullSwing3 -->
+      </class> <!-- UdemyContd2.V160_1SwitchingTheTestsWithMavenProfiling -->
+      <class name="UdemyContd2.V160_2SwitchingTheTestsWithMavenProfiling">
+        <test-method signature="MavenFullSwing4()[pri:0, instance:UdemyContd2.V160_2SwitchingTheTestsWithMavenProfiling@3f56875e]" started-at="2021-02-05T15:32:37 GST" name="MavenFullSwing4" finished-at="2021-02-05T15:32:37 GST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MavenFullSwing4 -->
+        <test-method signature="MavenFullSwing5()[pri:0, instance:UdemyContd2.V160_2SwitchingTheTestsWithMavenProfiling@3f56875e]" started-at="2021-02-05T15:32:37 GST" name="MavenFullSwing5" finished-at="2021-02-05T15:32:37 GST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MavenFullSwing5 -->
+        <test-method signature="MavenFullSwing6()[pri:0, instance:UdemyContd2.V160_2SwitchingTheTestsWithMavenProfiling@3f56875e]" started-at="2021-02-05T15:32:37 GST" name="MavenFullSwing6" finished-at="2021-02-05T15:32:37 GST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MavenFullSwing6 -->
+      </class> <!-- UdemyContd2.V160_2SwitchingTheTestsWithMavenProfiling -->
+      <class name="UdemyContd2.V160_3SwitchingTheTestsWithMavenProfiling">
+        <test-method signature="MavenFullSwing8()[pri:0, instance:UdemyContd2.V160_3SwitchingTheTestsWithMavenProfiling@2b4bac49]" started-at="2021-02-05T15:32:37 GST" name="MavenFullSwing8" finished-at="2021-02-05T15:32:37 GST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MavenFullSwing8 -->
+        <test-method signature="MavenFullSwing7()[pri:0, instance:UdemyContd2.V160_3SwitchingTheTestsWithMavenProfiling@2b4bac49]" started-at="2021-02-05T15:32:37 GST" name="MavenFullSwing7" finished-at="2021-02-05T15:32:37 GST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MavenFullSwing7 -->
+        <test-method signature="MavenFullSwing9()[pri:0, instance:UdemyContd2.V160_3SwitchingTheTestsWithMavenProfiling@2b4bac49]" started-at="2021-02-05T15:32:37 GST" name="MavenFullSwing9" finished-at="2021-02-05T15:32:37 GST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MavenFullSwing9 -->
+      </class> <!-- UdemyContd2.V160_3SwitchingTheTestsWithMavenProfiling -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
