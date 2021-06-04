@@ -10,5 +10,7 @@ public class V159IntegrationOfTestNGWithMaven
 		System.out.println("Maven is a success");
 		System.out.println("GIT Hub Trial 1");
 		System.out.println("GIT Hub Trial 1.1");
+		
+		System.out.println("GIT Hub Trial 2.0");
 	}
 }

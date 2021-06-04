@@ -18,6 +18,7 @@ public class V160_3SwitchingTheTestsWithMavenProfiling
 	public void MavenFullSwing9()
 	{
 		System.out.println("Maven Full Swing 9");
+		System.out.println("GIT Hub Trial 2.0");
 	}
 	
 }
