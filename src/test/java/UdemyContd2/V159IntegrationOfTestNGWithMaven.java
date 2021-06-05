@@ -13,4 +13,8 @@ public class V159IntegrationOfTestNGWithMaven
 		
 		System.out.println("GIT Hub Trial 2.0");
 	}
+	@Test
+	public void GitBranch1()
+	{	System.out.println("GitBranch 1.0");		
+	}
 }

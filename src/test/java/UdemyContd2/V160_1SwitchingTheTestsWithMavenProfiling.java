@@ -19,5 +19,9 @@ public class V160_1SwitchingTheTestsWithMavenProfiling
 	{
 		System.out.println("Maven Full Swing 3");
 	}
+	@Test
+	public void GitBranch1()
+	{	System.out.println("GitBranch 1.0");		
+	}
 
 }
