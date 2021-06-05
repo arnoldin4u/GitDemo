@@ -23,5 +23,9 @@ public class V160_1SwitchingTheTestsWithMavenProfiling
 	public void GitBranch1()
 	{	System.out.println("GitBranch 1.0");		
 	}
-
+	
+	@Test
+	public void GitBranch1A()
+	{	System.out.println("GitBranch 1A");		
+	}
 }

@@ -17,4 +17,9 @@ public class V159IntegrationOfTestNGWithMaven
 	public void GitBranch1()
 	{	System.out.println("GitBranch 1.0");		
 	}
+	
+	@Test
+	public void GitBranch1A()
+	{	System.out.println("GitBranch 1A");		
+	}
 }
